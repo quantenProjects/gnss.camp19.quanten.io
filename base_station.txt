@@ -1,0 +1,11 @@
+This is the GNSS Basestation at the #CCCamp19
+
+The antenna is located at
+
+53.032595188923274,13.307541007706636
+
+with
+
+90.1089546386597
+
+m height (WGS84) since 24.08.
